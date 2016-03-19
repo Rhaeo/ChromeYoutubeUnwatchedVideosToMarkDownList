@@ -1,0 +1,1 @@
+Array.prototype.forEach.call(document.querySelectorAll("a.yt-uix-sessionlink.yt-ui-ellipsis.yt-ui-ellipsis-2.spf-link"), element => element.parentNode.parentNode.querySelector(".yt-ui-menu-item").click());
